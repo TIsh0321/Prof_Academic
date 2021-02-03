@@ -2,19 +2,19 @@
 
 このレポジトリは(Website)[https://jovial-blackwell-11ad0a.netlify.app/]の構築を目的として作成しています。
 
-#R Studio
+## 編集環境｜R Studio 
 Rprojectファイル(Prof_Academic.Rproj)で編集をしています。
 
 URL：https://github.com/TIsh0321/Prof_Academic/blob/main/Prof_Academic.Rproj
 
-#Theme
+## Hugo Theme
 
-Websaiteテーマはstarter-academic(wowchemy/starter-academic)を使用しています。
+Hugoを使用して構築しています。Hugothemeはstarter-academic(wowchemy/starter-academic)を使用しています。
 
-#Deploy
+## Deploy
 このレポジトリをNetlify(https://app.netlify.com/teams/tish0321/overview)経由でDeployしています。
 
-#構築手順
+## 構築手順
 
 1．RstudioでNew Project->New registory -> Website using blogdonw
 2. Projファイルを作成するときにthemeを読み込ませる(wowchemy/starter-academic)
