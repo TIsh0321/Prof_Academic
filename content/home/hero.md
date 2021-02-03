@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-title: Hugo Academic Starter
-hero_media: hero-academic.png
+title: Tomoki Ishikawa, Ph.D., M.B.A.
+hero_media: 
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
@@ -16,12 +16,12 @@ cta_note:
 design:
   background:
     gradient_end: '#1976d2'
-    gradient_start: '#004ba0'
+    gradient_start: '#54afd1'
     text_color_light: true
 advanced:
-  css_class: fullscreen
+  css_class: 
 ---
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+**hero.mdファイルでここの項目を調節**
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+サイトの説明などを入れる
