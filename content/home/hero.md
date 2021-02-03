@@ -19,7 +19,7 @@ design:
     gradient_start: '#54afd1'
     text_color_light: true
 advanced:
-  css_class: 
+  css_class: #元々fullscreenで入っていたが、削除した。
 ---
 
 **hero.mdファイルでここの項目を調節**
