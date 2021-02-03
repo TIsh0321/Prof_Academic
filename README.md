@@ -27,3 +27,6 @@ Hugoを使用して構築しています。Hugothemeはstarter-academic`wowchemy
 9. deployを行って、サイトを構築
 
 
+# test
+<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="/content/home/gallery/gallery/" alt="Wowchemy Website Builder"></a></p>
+
